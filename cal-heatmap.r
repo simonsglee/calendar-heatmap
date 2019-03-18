@@ -114,9 +114,9 @@ calendarHeat <- function(opts,
             y=list(
                  at = c(0, 1, 2, 3, 4, 5, 6),
                  labels = c(
-                     "Sunday"   , "Monday"  ,"Tuesday", 
+                     "Monday"  ,"Tuesday", 
                      "Wednesday", "Thursday","Friday" , 
-                     "Saturday"
+                     "Saturday", "Sunday"
                  ),
                  alternating = 1,
                  cex = 0.6,
